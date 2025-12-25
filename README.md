@@ -34,3 +34,6 @@ A digital stopwatch application that allows you to track time with precision. Th
 - Click Reset button to clear all times and start over
 - View all recorded laps in the laps list below
 
+## Screenshot
+<img width="1361" height="737" alt="image" src="https://github.com/user-attachments/assets/e8556baf-ef90-4662-b45c-e2fd56e0f5ca" />
+
